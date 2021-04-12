@@ -33,6 +33,7 @@ Useful resources for presentation about DevOps & continuous learning.
 * [DevOps Paradox](https://www.devopsparadox.com)
 * [Arrested DevOps](https://www.arresteddevops.com/)
 * [Around IT In 256 Seconds](https://256.nurkiewicz.com/)
+* [Patoarchitekci](https://patoarchitekci.io)
 
 ## Learn by doing
 
@@ -42,7 +43,6 @@ Useful resources for presentation about DevOps & continuous learning.
 * [AWS Free Tier](https://aws.amazon.com/free/)
 * [Azure Free](https://azure.microsoft.com/en-us/free/free-account-faq/)
 * [Google Cloud Free](https://cloud.google.com/free)
-* [Civo](https://www.civo.com/)
 
 ## Books
 
@@ -56,6 +56,12 @@ Useful resources for presentation about DevOps & continuous learning.
 * [DevOps RoadMap](https://github.com/kamranahmedse/developer-roadmap)
 * [DevOps tools](https://github.com/collections/devops-tools)
 * [Terraform provider for libvirt](https://github.com/dmacvicar/terraform-provider-libvirt)
+
+# Other 
+
+* [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io/)
+* [Technology Radar](https://www.thoughtworks.com/radar)
+* [Advanced Distributed Systems Design - Udi Dahan](https://learn.particular.net/courses/adsd-online)
 
 ## YouTube
 
