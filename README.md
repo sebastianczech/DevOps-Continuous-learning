@@ -12,6 +12,11 @@ Useful resources for presentation about DevOps & continuous learning.
 * [DevOps RoadMap](https://github.com/kamranahmedse/developer-roadmap)
 * [Learning Path: DevOps](https://medium.com/@amanpreet9391/learning-path-devops-8aaf828167be)
 * [The Complete DevOps RoadMap](https://medium.com/hackernoon/the-2018-devops-roadmap-31588d8670cb)
+* [Trunk Based Development](https://trunkbaseddevelopment.com/)
+* [Implementing continuous delivery patterns](https://continuousdelivery.com/implementing/patterns/)
+* [Oh Shit, Git!?!](https://ohshitgit.com/)
+* [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
+* [Resilience design patterns: retry, fallback, timeout, circuit breaker](https://blog.codecentric.de/en/2019/06/resilience-design-patterns-retry-fallback-timeout-circuit-breaker/)
 
 ## Materials about continuous learning
 
@@ -56,8 +61,11 @@ Useful resources for presentation about DevOps & continuous learning.
 * [DevOps RoadMap](https://github.com/kamranahmedse/developer-roadmap)
 * [DevOps tools](https://github.com/collections/devops-tools)
 * [Terraform provider for libvirt](https://github.com/dmacvicar/terraform-provider-libvirt)
+* [Awesome Site Reliability Engineering](https://github.com/dastergon/awesome-sre)
+* [The book of secret knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+* [DevOps exercises](https://github.com/bregman-arie/devops-exercises)
 
-# Other 
+## Other 
 
 * [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io/)
 * [Technology Radar](https://www.thoughtworks.com/radar)
