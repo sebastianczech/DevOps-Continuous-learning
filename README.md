@@ -25,7 +25,9 @@ Useful resources for presentation about DevOps & continuous learning.
 * [DevOps - continuous learning and experimentation](https://www.slideshare.net/arunmurughan/devops-continuous-learning-and-experimentation)
 * [7 Reasons Why Continuous Learning is Important](https://www.linkedin.com/pulse/7-reasons-why-continuous-learning-important-amit-nagpal/)
 * [Kaizen - culture of continuous improvemen](https://www.leanproduction.com/kaizen.html)
-
+* [A Different Meaning of CI - Continuous Improvement, the Heartbeat of DevOps](https://www.infoq.com/articles/continuous-improvement-heartbeat-devops/)
+* [CALMS Framework - Assess your ability and measure progress on your DevOps journey](https://www.atlassian.com/devops/frameworks/calms-framework)
+* [Continuous Learning Culture](https://www.scaledagileframework.com/continuous-learning-culture/)
 ## Failures
 
 * [Postmortem Culture: Learning from Failure](https://sre.google/sre-book/postmortem-culture/)
@@ -70,6 +72,8 @@ Useful resources for presentation about DevOps & continuous learning.
 * [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io/)
 * [Technology Radar](https://www.thoughtworks.com/radar)
 * [Advanced Distributed Systems Design - Udi Dahan](https://learn.particular.net/courses/adsd-online)
+* [The twelve-factor app](https://12factor.net/)
+* [GitOps](https://www.gitops.tech/)
 
 ## YouTube
 
