@@ -18,7 +18,7 @@ Useful resources for presentation about DevOps & continuous learning.
 * [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
 * [Resilience design patterns: retry, fallback, timeout, circuit breaker](https://blog.codecentric.de/en/2019/06/resilience-design-patterns-retry-fallback-timeout-circuit-breaker/)
 
-## Materials about continuous learning
+## Continuous learning
 
 * [DORA's research program](https://www.devops-research.com/research.html)
 * [DevOps culture: Learning culture](https://cloud.google.com/solutions/devops/devops-culture-learning-culture)
@@ -66,6 +66,7 @@ Useful resources for presentation about DevOps & continuous learning.
 * [Awesome Site Reliability Engineering](https://github.com/dastergon/awesome-sre)
 * [The book of secret knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 * [DevOps exercises](https://github.com/bregman-arie/devops-exercises)
+* [Architecture Weekly by Oskar Dudycz](https://github.com/oskardudycz/ArchitectureWeekly)
 
 ## Other 
 
