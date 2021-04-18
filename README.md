@@ -78,10 +78,10 @@ Useful resources for presentation about DevOps & continuous learning.
 
 ## Slack
 
-* [Kubernetes](kubernetes.slack.com)
-* [DevOps20](devops20.slack.com)
-* [DevOps Engineers](devopsengineers.slack.com)
-* [Devs Polska](devspolska.slack.com)
+* [Kubernetes](https://kubernetes.slack.com)
+* [DevOps20](https://devops20.slack.com)
+* [DevOps Engineers](https://devopsengineers.slack.com)
+* [Devs Polska](https://devspolska.slack.com)
 
 ## YouTube
 
