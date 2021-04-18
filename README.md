@@ -76,6 +76,13 @@ Useful resources for presentation about DevOps & continuous learning.
 * [The twelve-factor app](https://12factor.net/)
 * [GitOps](https://www.gitops.tech/)
 
+## Slack
+
+* [Kubernetes](kubernetes.slack.com)
+* [DevOps20](devops20.slack.com)
+* [DevOps Engineers](devopsengineers.slack.com)
+* [Devs Polska](devspolska.slack.com)
+
 ## YouTube
 
 * [Kubernetes po polsku - Tomasz Cholewa](https://www.youtube.com/playlist?list=PLC2hWv6J_iIzt3140dXL-Ts31Owodl7lB)
